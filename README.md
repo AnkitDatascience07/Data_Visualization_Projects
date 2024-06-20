@@ -43,4 +43,4 @@ Data visualization is a crucial aspect of data analysis and interpretation. It h
 
 **Tools Used:** Power BI
 
-**Link to Project:** [Classic Models Sales Analysis](https://github.com/AnkitDatascience07/Data-visualization-Projects-/blob/main/Power%20bi%20capstone%20project.pbix)
+**Link to Project:** [Classic Models Sales Analysis](https://github.com/AnkitDatascience07/Data-visualization-Projects-/blob/main/Credit%20models%20Sales%20analysis.pbix)
