@@ -6,6 +6,9 @@ Welcome to the **Data Visualization** repository! This repository is dedicated t
 
 - [Introduction](#introduction)
 - [Projects](#projects)
+
+
+
   - [Project 1: Provide insights to the product stretegy team in the Banking domain.](#project-1-Credit-card market analysis for Mitron Bank.)
   - [Project 2: Provide insights to the revenue team in the hospitality domain.](#project-2-Revenue Analysis for AtliQ Grands)
   - [Project 3: Classic models Sales analysis](#project-3-Classic models Sales analysis)
