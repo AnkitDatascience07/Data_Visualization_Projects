@@ -26,7 +26,7 @@ Data visualization is a crucial aspect of data analysis and interpretation. It h
 
 **Tools Used:** Power BI
 
-**Link to Project:** [Credit Card Strategy Analysis for Mitron Bank](____)
+**Link to Project:** [Credit Card Strategy Analysis for Mitron Bank](https://github.com/AnkitDatascience07/Data-visualization-Projects-/blob/main/Provide%20Insights%20to%20the%20Product%20Strategy%20Team%20in%20the%20Banking%20Domain.pbix)
 
 
 ### Project 2: Revenue Analysis for AtliQ Grands
