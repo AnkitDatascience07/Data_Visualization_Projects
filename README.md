@@ -16,7 +16,7 @@ Welcome to the **Data Visualization** repository! This repository is dedicated t
 
 ## Introduction
 
-Data visualization is a crucial aspect of data analysis and interpretation. It helps in understanding complex data sets by representing them in a visual format, making it easier to identify patterns, trends, and insights. This repository contains several projects that demonstrate different data visualization techniques using tools such as Python (Matplotlib, Seaborn), R (ggplot2), D3.js, Tableau, and more.
+Data visualization is a crucial aspect of data analysis and interpretation. It helps in understanding complex data sets by representing them in a visual format, making it easier to identify patterns, trends, and insights. This repository contains several projects that demonstrate different data visualization techniques using tools such as Python (Matplotlib, Seaborn), Tableau, and power BI.
 
 ## Projects
 
