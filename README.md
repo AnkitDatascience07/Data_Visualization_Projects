@@ -1,11 +1,7 @@
 # Data Visualization
 
 Welcome to the **Data Visualization** repository! This repository is dedicated to showcasing various data visualization projects using different tools and technologies. Each project demonstrates unique techniques and methods to visualize data effectively.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Projects](#projects)
+Data visualization is a crucial aspect of data analysis and interpretation. It helps in understanding complex data sets by representing them in a visual format, making it easier to identify patterns, trends, and insights. This repository contains several projects that demonstrate different data visualization techniques using tools such as Python (Matplotlib, Seaborn), Tableau, and power BI.
 
 
 
@@ -14,9 +10,6 @@ Welcome to the **Data Visualization** repository! This repository is dedicated t
   - [Project 3: Classic models Sales analysis](#project-3-Classic models Sales analysis)
 
 
-## Introduction
-
-Data visualization is a crucial aspect of data analysis and interpretation. It helps in understanding complex data sets by representing them in a visual format, making it easier to identify patterns, trends, and insights. This repository contains several projects that demonstrate different data visualization techniques using tools such as Python (Matplotlib, Seaborn), Tableau, and power BI.
 
 ## Projects
 
